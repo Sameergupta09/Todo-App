@@ -1,2 +1,2 @@
 TO-DO list app
-NIce app
+Nice app
